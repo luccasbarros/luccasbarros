@@ -1,14 +1,9 @@
-
-
-
 ## Hello! 👋🏻 
-
-
 
 I'm Luccas Barros, I'm a Front-End developer! <img src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47fia9jjj1h56zwqufb5xs3pv7zr2hmd73xn3yovi3&rid=giphy.gif" width="32px">
 
 - :memo: I'm currently working with: React JS / Typescript / SASS / Gulp
-- 🌱 I’m currently learning: Node JS
+- 🌱 I’m currently learning: Node JS / Terraform / Docker / AWS Cloud
 - 💬 Ask me about: Games, Technology and Love! <3
 - 😄 We can talk in: English or Portuguese
 
