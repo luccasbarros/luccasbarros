@@ -2,8 +2,8 @@
 
 I'm Luccas Barros, I'm a Full stack developer! <img src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47fia9jjj1h56zwqufb5xs3pv7zr2hmd73xn3yovi3&rid=giphy.gif" width="32px">
 
-- :memo: I'm currently working as Full stack developer at Claranet Brasil with: React JS / Typescript / NodeJS / ExpressJS
-- 🌱 I’m currently learning: Docker / Serverless
+- :memo: I'm currently working as Full stack developer at Sambatech with: React JS / Typescript / NodeJS / ExpressJS / NestJS / AWS Cognito, SES, S3 / PostgreSQL
+- 🌱 I’m currently learning: AWS / Microservices / Mensageria / NestJS
 - 💬 Ask me about: Games, Technology and Love! <3
 - 😄 We can talk in: English or Portuguese
 
