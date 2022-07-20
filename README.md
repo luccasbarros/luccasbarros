@@ -10,13 +10,6 @@ I'm Luccas Barros, I'm a Backend developer! <img src="https://media2.giphy.com/m
 
 <p>
   <a
-    href="https://www.instagram.com/luhcidez" 
-    alt="Instagram"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-Instagram-FA8072?style=flat&logo=Instagram&logoColor=white" />
-  </a>
-  <a
     href="https://www.linkedin.com/in/luccasbarros/" 
     alt="LinkedIn"
     target="blank"
