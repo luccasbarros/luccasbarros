@@ -36,13 +36,6 @@ I'm Luccas Barros, I'm a Backend developer! <img src="https://media2.giphy.com/m
   >
   
   </a>
-  <a
-    href="https://api.whatsapp.com/send?phone=5535998979436&text=Ol%C3%A1.%20Se%20quiser%20entrar%20em%20contato%20comigo%2C%20s%C3%B3%20deixar%20uma%20mensagem!" 
-    alt="WhatsApp"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-WhatsApp-FA8072?style=flat&logo=WhatsApp&logoColor=white" />
-  </a>
   
 
   
