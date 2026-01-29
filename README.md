@@ -1,8 +1,8 @@
 ## Hello! 👋🏻 
 
-I'm Luccas Barros, I'm a Backend developer! <img src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47fia9jjj1h56zwqufb5xs3pv7zr2hmd73xn3yovi3&rid=giphy.gif" width="32px">
+I'm Luccas Barros, I'm a Software engineer! <img src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47fia9jjj1h56zwqufb5xs3pv7zr2hmd73xn3yovi3&rid=giphy.gif" width="32px">
 
-- :memo: I'm currently working as Backend Developer with Go and NodeJS
+- :memo: I'm currently working as Software engineer with Go and NodeJS
 
 <p>
   <a
